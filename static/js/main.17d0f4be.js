@@ -10941,7 +10941,7 @@
                   overflow: "auto",
                   borderRadius: "25px",
                   outline: "none",
-                  padding: 10,
+                  padding: "10px 20px",
                   transform: "translate(-50%, -50%)",
                 },
                 children: (0, c.jsx)("div", {
@@ -11361,8 +11361,7 @@
                   (0, c.jsx)("hr", {
                     style: {
                       borderTop: "0.5px solid #d0d0d0",
-                      marginTop: 20,
-                      marginBottom: 20,
+                      margin: 20,
                     },
                   }),
                   (0, c.jsx)("div", {
